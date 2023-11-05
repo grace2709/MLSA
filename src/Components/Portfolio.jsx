@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/coffeelap.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with laptop, coffee, and notebook";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Empowering Students with Azure Static Web Apps",
     description:
       "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://medium.com/the-degree-diary/empowering-students-c1b1c0ddc846",
   },
   {
-    title: "Web Development for Beginners",
+    title: "How to excel in Computer Science",
     description:
       "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://medium.com/the-degree-diary/how-to-excel-in-computer-science-1ae4fafee4c9",
   },
   {
-    title: "My Resume Site",
+    title: "Five Incredible Apps to Assist Students with Saving",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Collaboration to create a beginner friendly article to help explain students manage their finanaces",
+    url: "https://medium.com/the-degree-diary/five-incredible-apps-to-assist-students-with-saving-8b18cfcfc594",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "five incredible apps to assist students with saving",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A beginner friendly article to help explain students manage their finanaces",
+    url: "https://medium.com/the-degree-diary/five-incredible-apps-to-assist-students-with-saving-8b18cfcfc594",
   },
 ];
 
