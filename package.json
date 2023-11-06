@@ -31,7 +31,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.31.7",
     "gh-pages": "^4.0.0",
-    "html-webpack-plugin": "^5.5.0",
+    "html-webpack-plugin": "^5.5.3",
     "parcel": "^2.7.0",
     "prettier": "^2.7.1",
     "process": "^0.11.10"
